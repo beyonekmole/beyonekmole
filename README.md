@@ -1,6 +1,7 @@
 
 
 ## Hi there 👋
+<img src="https://github.com/hesreallyhim/hesreallyhim/raw/main/assets/GITHUB_IS_MAGIC_LIGHT.svg" />
 
 <div align="center" margin="none"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hesreallyhim/hesreallyhim/raw/main/assets/GITHUB_IS_MAGIC_LIGHT.svg">
